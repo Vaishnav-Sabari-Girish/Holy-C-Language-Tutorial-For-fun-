@@ -6,3 +6,4 @@
 2. [Variables](./variables/variables.HC)
 3. [Arrays](./arrays/arrays.HC)
 4. [Characters and String](./char_string/char_string.HC)
+5. [Class and Union](./class_union/class_union.HC)
